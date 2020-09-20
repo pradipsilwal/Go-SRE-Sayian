@@ -4,16 +4,16 @@ Learning resource to go from DevOps to SRE.
 
 # DevOps
 ---------
+- [x] [What is DevOps?](https://aws.amazon.com/devops/)
 
 # Database
 ----------
-:black_square_button: What
 
 # Linux
 --------
-:white_check_mark: Hey
 - [ ] Mercury
-- [x] Venus
+- [ ] Mercury
+
 
 # Networking
 -------------
