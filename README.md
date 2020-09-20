@@ -11,8 +11,8 @@ Learning resource to go from DevOps to SRE.
 
 # Linux
 --------
-- [ ] TODO
-- [X] DONE
+- [ ] Explain linux boot process?
+- [ ] What is file descryptor in linux?
 
 
 # Networking
