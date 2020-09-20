@@ -11,11 +11,8 @@ Learning resource to go from DevOps to SRE.
 
 # Linux
 --------
-<<<<<<< HEAD
-=======
 - [ ] Explain linux boot process?
 
->>>>>>> upstream/master
 
 # Networking
 -------------
