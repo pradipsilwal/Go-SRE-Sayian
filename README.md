@@ -11,8 +11,8 @@ Learning resource to go from DevOps to SRE.
 
 # Linux
 --------
-- [ ] Mercury
-- [ ] Mercury
+- [ ] TODO
+- [X] DONE
 
 
 # Networking
