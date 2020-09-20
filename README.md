@@ -12,6 +12,8 @@ Learning resource to go from DevOps to SRE.
 # Linux
 --------
 :white_check_mark: Hey
+- [ ] Mercury
+- [x] Venus
 
 # Networking
 -------------
