@@ -11,9 +11,6 @@ Learning resource to go from DevOps to SRE.
 
 # Linux
 --------
-- [ ] TODO
-- [X] DONE
-
 
 # Networking
 -------------
